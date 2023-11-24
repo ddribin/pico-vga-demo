@@ -484,7 +484,8 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "RaspberryPi_Pico_SMD"
+      "RaspberryPi_Pico_SMD",
+      "RPi_PicoW"
     ],
     "pinned_symbol_libs": [
       "MCU_RaspberryPi_Pico"

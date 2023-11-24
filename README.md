@@ -1,4 +1,7 @@
-This repository contains the KiCad projects to the "VGA, SD card, and  audio demo boards for Raspberry Pi Pico and Raspberry Pi Pico W" from Chapter 3 of ["Hardware design with RP2040"][hw-design].
+This repository contains the KiCad projects for the "VGA, SD card, and  audio demo boards for Raspberry Pi Pico and Raspberry Pi Pico W" from Chapter 3 of ["Hardware design with RP2040"][hw-design].
+
+- `pico_vga_sd_aud`: Pico version
+- `picow_vga_sd_aud`: Pico W version
 
 This is based off of Version 2.2 of the document from 14 June, 2023, but contains some minor updates, such as saving with Version 7, the current version of KiCad.
 

@@ -483,8 +483,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "RaspberryPi_Pico_SMD"
+    ],
+    "pinned_symbol_libs": [
+      "MCU_RaspberryPi_Pico"
+    ]
   },
   "meta": {
     "filename": "picow_vga_sd_aud.kicad_pro",

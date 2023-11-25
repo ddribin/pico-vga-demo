@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (descr "Through hole straight pin header, 2x20, 2.54mm pitch, double rows")
   (tags "Through hole pin header THT 2x20 2.54mm double row")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0 0) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp dcdb91ba-9bc2-4b10-87a6-a9bcd4967b6d)
@@ -388,7 +388,7 @@
   (zone (net 0) (net_name "") (layer "F.Cu") (tstamp c90a8a4c-8dee-42d9-a297-d525cf1bcaed) (hatch edge 0.5)
     (connect_pads (clearance 0))
     (min_thickness 0.25) (filled_areas_thickness no)
-    (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks not_allowed) (vias not_allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.5) (thermal_bridge_width 0.5))
     (polygon
       (pts

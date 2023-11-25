@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (descr "Through hole straight pin header, 2x20, 2.54mm pitch, double rows")
   (tags "Through hole pin header THT 2x20 2.54mm double row")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "U2" (at 0 0) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9770c02b-e18f-4633-9b06-6881b94a9d1a)
